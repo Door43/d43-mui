@@ -14,7 +14,7 @@ To find out more about Open Bible Stories, visit [[https://unfoldingword.org/sto
 
 Feel free to join the Open Bible Stories translation team and start a new translation, complete one that has already been started, or help check a completed translation. Learn more about [[:mui:get-started|how you can get started]] or read the [[:mui:obs:help|help section]].
 
-==== Stories in English ====
+==== Crito dalem Baso Palembang ====
 
 {{page>mui:obs:stories}}
 
